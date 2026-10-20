@@ -10,6 +10,7 @@
 
 ##  Завдання.
 <img width="941" height="272" alt="image" src="https://github.com/user-attachments/assets/80e0b57f-20f2-4fa0-9000-03fbfce1e3df" />
+
 **Варіант завдання (Завдання 13)**
 
 1. Створіть структуру з іменем **Price**, яка б містила наступні поля:
